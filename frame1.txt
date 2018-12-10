@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+
+<frameset rows="10%,90%">
+  <frame src="icon.html">
+<frameset cols="25%,75%">
+  <frame src="sidebar.html">
+  <frame src="table.html">
+</frameset>
+
+</html>
